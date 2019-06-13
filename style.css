@@ -1,0 +1,20 @@
+* {
+    /* border: solid red 1px;  */
+}
+
+/* Navigation Bar Top */
+
+.navEdit {
+    background-color: white;
+    border: grey;
+    /* margin: 1px 1% 1px 15%; */
+    width: auto;
+    /* color: white; */
+    
+}
+
+.tabsRight {
+    border: grey;
+    
+    /* background-color:blue; */
+}
